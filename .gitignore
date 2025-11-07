@@ -3,19 +3,37 @@
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
-pubspec.lock
-build/
-
-# Android
+*.iml
+.idea/
 .gradle/
-local.properties
+.android/
+.ios/
+build/
+*.apk
+*.aab
 *.jks
 *.keystore
+pubspec.lock
 
-# IDE
-.vscode/
-.idea/
-
-# Misc
+# Firebase & Node
+firebase/functions/node_modules/
+firebase/functions/.runtimeconfig.json
 .env
 .env.local
+firebase-debug.log
+
+# IDEs
+.vscode/
+*.swp
+*.swo
+*.code-workspace
+.DS_Store
+
+# System
+Thumbs.db
+*.log
+
+# Generated files
+coverage/
+.dart_tool/
+.flutter-plugins
