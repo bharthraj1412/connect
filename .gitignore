@@ -1,0 +1,21 @@
+﻿# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+build/
+
+# Android
+.gradle/
+local.properties
+*.jks
+*.keystore
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.env
+.env.local

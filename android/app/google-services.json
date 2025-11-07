@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215141095629",
+    "project_id": "sharenet-earn",
+    "storage_bucket": "sharenet-earn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215141095629:android:bf62040e7739e946053184",
+        "android_client_info": {
+          "package_name": "com.example.sharenet_earn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFp9t0nnmQtt8qLdDnwmC3R00fTcfQQtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
